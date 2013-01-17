@@ -1,5 +1,5 @@
-About this repository
----------------------
+About this directory
+--------------------
 
 These are assignments that take between 10-30 minutes to complete.
 

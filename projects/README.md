@@ -1,5 +1,5 @@
-About this repository
----------------------
+About this directory
+--------------------
 
 These are assignments that take around one month or more to complete.
 
